@@ -1,0 +1,137 @@
+{
+  "sold": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/sold",
+        "stream": true
+      }
+    ]
+  },
+  "ringoffire": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/ringoffire",
+        "stream": true
+      }
+    ]
+  },
+  "elvira": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/elvira",
+        "stream": true
+      }
+    ]
+  },
+  "manofsorrow": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/manofsorrow",
+        "stream": true
+      }
+    ]
+  },
+  "hillbillybone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/hillbillybone",
+        "stream": true
+      }
+    ]
+  },
+  "countryharmony": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/countryharmony",
+        "stream": true
+      }
+    ]
+  },
+  "africa": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/africa",
+        "stream": true
+      }
+    ]
+  },
+  "starlightbrigade": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/starlightbrigade",
+        "stream": true
+      }
+    ]
+  },
+  "mistymountains": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/mistymountains",
+        "stream": true
+      }
+    ]
+  },
+  "glory": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/glory",
+        "stream": true
+      }
+    ]
+  },
+  "survivor": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/survivor",
+        "stream": true
+      }
+    ]
+  },
+  "diggydiggyhole": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/diggydiggyhole",
+        "stream": true
+      }
+    ]
+  },
+  "rockafellerstreet": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/rockafellerstreet",
+        "stream": true
+      }
+    ]
+  },
+  "rocktorwho": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/rocktorwho",
+        "stream": true
+      }
+    ]
+  },
+  "tryeverything": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "blackfrisbies:music/tryeverything",
+        "stream": true
+      }
+    ]
+  }
+}

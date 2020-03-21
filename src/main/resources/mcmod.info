@@ -1,0 +1,12 @@
+[{
+  "modid": "blackfrisbies",
+  "name": "Sing for me",
+  "description": "newbienewbie",
+  "version": "0.0.1.0",
+  "mcversion": "1.15.x",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Author"],
+  "credits": "I'd like to thank my mother and father."
+}]
